@@ -11,6 +11,7 @@
 - [Skrypty w bashu](https://www.arturpyszczuk.pl/files/bash/bash.pdf)
 - [Bash UMK](http://fizyka.umk.pl/~karolamik/unix/skrypty/bash.pdf)
 - [Audyt bezpieczeństwa](https://securitum.pl/baza-wiedzy/przykladowy-audyt-bezpieczenstwa/)
+- [Linux Handbook - twitterowa nitka](https://twitter.com/LinuxHandbook/status/1616088056796426252?t=DFqf5cRD031mvEU3skjVRA&s=09)
 
 ## Bezpieczeństwo sieci komputerowych:
 - [PDF 1](https://informatyka.2ap.pl/wp-content/uploads/2014/10/SieciKomp-15-BezpieczenstwoSieci.pdf)
