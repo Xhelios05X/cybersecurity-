@@ -16,7 +16,7 @@ Do not change arguments order. For ASCII table use "0" as a "charTable" argument
 To sue this command:
 
 	g++ ceasar_decoding.cpp
-	./ceasar_decoging
+	./ceasar_decoding
 	-type your sentence-
 
 To change the main language, you need to change the most common letter in that langauge in script.
