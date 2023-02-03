@@ -1,5 +1,5 @@
-// g++ ceaser_decoding.cpp
-// ./ceaser_decoding
+// g++ ceasar_decoding.cpp
+// ./ceasar_decoding
 // Tool is used for decoding a Ceasar Cipher
 // Author: github/Xhelios05X
 #include <iostream>
