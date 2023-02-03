@@ -26,20 +26,16 @@ int key(string a)
         A[i]=0;
 
     for(int i=0; i<a.size(); i++)
-    {
         if(!condition(a[i]))
             A[int(a[i])-'A']++;
-    }
 
     int tmp = 0, m;
     for(int i =0; i<26; i++)
-    {
         if(A[i]>tmp)
         {
             tmp=A[i];
             m = i;
         }
-    }
 
     return int('A'+m-C);
 }
