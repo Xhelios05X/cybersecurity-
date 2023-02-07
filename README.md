@@ -45,6 +45,7 @@
 - [CTF Checklist](https://fareedfauzi.gitbook.io/ctf-checklist-for-beginner/steganography)
 - [CyberChef](https://ctfacademy.github.io/crypto/cyberchef.htm)
 - [Spyboy's list](https://spyboy.blog/2022/11/27/ctf-help/)
+- [Malware reverse engineering](https://twitter.com/maldr0id/status/1622653347814678528?s=46&t=HoSqoaUyfgXJ42pAjgyoSw)
 
 ## Ciekawe linki na temat zagadnień cybersecurity:
 
